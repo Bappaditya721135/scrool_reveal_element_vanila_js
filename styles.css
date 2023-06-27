@@ -41,3 +41,8 @@
   .section-box-4 {
     background-color: orange;
   }
+
+
+  .box-hidden {
+    opacity: 0;
+  }
